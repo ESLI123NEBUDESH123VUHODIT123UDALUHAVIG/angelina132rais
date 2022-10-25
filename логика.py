@@ -1,5 +1,5 @@
 for a in range (2):
     for b in range (2):
         for c in range (2):
-            if abc==0 :
-                print ("abc")
+            if (a and not(b)<=c)==a==0 :
+             print(a,b,c)
