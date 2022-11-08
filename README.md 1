@@ -48,7 +48,8 @@ https://angelina132rais.github.io/
  
  
  a\lor\left( a\wedge  b \right)=a   латех формула поглощения (фото есть выше)
- 
+
+
  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
   <mstyle displaystyle="true" scriptlevel="0">
     <mrow data-mjx-texclass="ORD">
@@ -72,3 +73,4 @@ https://angelina132rais.github.io/
     </mrow>
   </mstyle>
 </math>
+
