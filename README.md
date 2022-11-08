@@ -47,6 +47,9 @@ https://angelina132rais.github.io/
 $$ a\lor\left( a\wedge  b \right)=a $$  
 
 
+![lagrida_latex_editor (2)](https://user-images.githubusercontent.com/114457322/200460451-95ddda57-c7f5-4c32-bb91-bb210a3e0550.png)
+
+
 
  латех формула поглощения (фото есть выше)
 
