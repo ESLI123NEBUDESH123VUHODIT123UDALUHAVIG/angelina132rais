@@ -57,3 +57,11 @@ $$ \overline{E}^{2}_{1}=\sqrt{\frac{F\times a^{^{x-1}}}{(x-1)\times x}}+ \alpha^
  
 ![image](https://user-images.githubusercontent.com/114457322/200717305-7eaa715f-f8f5-4874-a6d1-0be48f55aaa1.png)
 
+$$ f(x)=\int\limits_{-\infty}^x e^{-t^2}dt $$
+
+![image](https://user-images.githubusercontent.com/114457322/200717693-b59fb3a7-75db-4b75-a243-6ca363ee48e3.png)
+
+$$ \lim_{x \to \infty} \left(1 + \frac{1}{n} \right)^n = e $$
+
+![image](https://user-images.githubusercontent.com/114457322/200718171-8e7e34f7-2e2c-46d3-ac2d-84534add33ad.png)
+
