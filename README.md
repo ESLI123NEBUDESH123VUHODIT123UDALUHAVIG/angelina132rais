@@ -53,6 +53,7 @@ $$ a\lor\left( a\wedge  b \right)=a $$
 
  латех формула поглощения (фото есть выше)
 
-
+$$ \overline{E}^{2}_{1}=\sqrt{\frac{F\times a^{^{x-1}}}{(x-1)\times x}}+ \alpha^{\frac{1}{3}}_{1}+ \beta_{2}^{\frac{2}{3}} $$
  
+![image](https://user-images.githubusercontent.com/114457322/200717305-7eaa715f-f8f5-4874-a6d1-0be48f55aaa1.png)
 
