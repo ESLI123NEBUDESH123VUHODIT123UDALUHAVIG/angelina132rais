@@ -86,4 +86,6 @@ g -->M[прекрасная жизнь в зеленой коробке]
 ```
 
 ![image](https://user-images.githubusercontent.com/114457322/208572158-1f4e1fcd-e22a-4e93-89d4-72ec6aec6143.png)
+
+
 теория игр
