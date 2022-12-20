@@ -47,6 +47,8 @@ https://angelina132rais.github.io/
  
 викторина.py 
 
+meretin.py-универсальный решатель задач
+
 $$ a\lor\left( a\wedge  b \right)=a $$  
 
 
