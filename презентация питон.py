@@ -21,7 +21,7 @@ def m():
         'cute cats',
         fill=('#1C0606')
     )
-    im.show()
+    im.save()
 
 
 a=input()
