@@ -28,7 +28,7 @@ def f1():
      print(f"код исправлен: символ {chisla_spisok[imin]}")
  else:
      print("код неверный")
-
+print("1")
  def f2():
     a = "abwgdevijklmnoprstufhcqx"
     abc = list(a)
@@ -43,7 +43,7 @@ def f1():
         ind = abc.index(text[i])
         indm=indm + abcm[ind]
         print(f"{indm}")
-
+print("2")
 def f3():
     print ("p=")
     a=int (input ())
@@ -58,7 +58,7 @@ def f3():
         print("N10=",d)
     p = int(input("vvedite p (2<p<=10):"))
     x,y = int(1),int(1)
-
+print("3")
 def f4():
     for x in range (1,p):
      a=[]
@@ -66,13 +66,14 @@ def f4():
       z = (x*y//p)*10 + (x*y)% p
       a.append(z)
       print(a)
-      
+print("4")      
       def f5():
           for a in range (2):
               for b in range (2):
                   for c in range (2):
                       if (((a and not(b)<=c)==a)==0):
                           print(a,b,c)
+print("5")
 x=input( '''выберите функцию:
 1
 2
