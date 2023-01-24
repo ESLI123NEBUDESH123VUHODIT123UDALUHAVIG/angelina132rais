@@ -55,3 +55,25 @@ for x in range(1,9):
         goto(x*30,y*30)
         dot(5)
 done()
+
+#12
+sp=[]
+for i in range(2,1000):
+  n=0
+  for k in range (2,117+4*i-1):
+      if (117+4*i)%k==0:
+          n=1
+          break
+  if n==0:
+      print(i)
+      print(117+4*i)
+      break
+ 
+
+#14
+a='0123456789abcd'
+for x in a:
+    f=int(f'123{x}5',15)+int(f'1{x}233',15)
+    if  f%14 ==0:
+        print(f//14)
+        break 
