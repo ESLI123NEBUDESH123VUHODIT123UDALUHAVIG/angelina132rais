@@ -68,7 +68,12 @@ for i in range(2,1000):
       print(i)
       print(117+4*i)
       break
- 
+#12.1      
+sp=[]
+for num in range(117,1000):
+    if all(num%delit!=0 for delit in range(2, num-1)):
+        sp.append(num)
+print(sp) 
 
 #14
 a='0123456789abcd'
