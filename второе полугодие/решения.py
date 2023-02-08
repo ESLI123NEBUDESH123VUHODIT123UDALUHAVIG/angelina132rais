@@ -84,7 +84,7 @@ for x in a:
         break 
         
         
-#хз
+#23
 from itertools import product
 for i in range (2,6):
   b=product('12',repeat=5)
