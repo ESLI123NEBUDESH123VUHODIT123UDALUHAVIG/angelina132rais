@@ -117,3 +117,21 @@ def f23(x,y,z):
                 
 print(f23(1,10,10)*f23(10,35,25))
         
+#16.1
+import sys
+sys.setrecursionlimit(3050)
+def f(n):
+    if n==1:
+        return 1
+    else:
+        return n*f(n-1)
+print (f(2023)/f(2020))
+
+#16.2
+
+itog1=itog2=1
+for x1 in range(1,2024):
+    itog1=itog1*x1
+for x2 in range(1,2021):
+    itog2=itog2*x2
+print(itog1/itog2)
