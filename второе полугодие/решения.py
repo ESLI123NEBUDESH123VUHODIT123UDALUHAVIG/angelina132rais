@@ -135,3 +135,16 @@ for x1 in range(1,2024):
 for x2 in range(1,2021):
     itog2=itog2*x2
 print(itog1/itog2)
+
+#17
+
+with open('17.txt') as f:
+    a=[int(x) for x in f]
+    abs=list(map(abs,a))
+for i in range(len(a)-1):
+    if(a[i]%10==3 and a[i+1]%10!=3) or (a[i]%10!=3 and a[i+11]==3):
+                                        count=+1
+ print(count)
+sp=[]
+for i in a:
+    
