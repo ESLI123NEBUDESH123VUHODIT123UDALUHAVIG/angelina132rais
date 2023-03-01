@@ -59,3 +59,33 @@ forward()-движение впередж; аргумент- количеств�
 
 19-21
 1. если в голове не соображается то делаем табл.
+
+Уникальные команды:
+
+print(a)
+for a in range()
+with open('*.txt') as f
+m.pop(0)
+forward(300)
+right(120)
+pu()
+goto(x*30,y*30)
+dot(5)
+done()
+else
+sp.append(num)
+product
+sys.setrecursionlimit(3050)
+abs=list(map(abs,a))
+readline
+m.sort(reverse=True)
+replace
+import
+return 
+elif
+if
+break
+index
+int
+all
+
