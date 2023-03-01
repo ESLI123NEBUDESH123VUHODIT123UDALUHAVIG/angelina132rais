@@ -63,29 +63,29 @@ forward()-движение впередж; аргумент- количеств�
 Уникальные команды:
 
 print(a)
-for a in range()
+ for a in range()
 with open('*.txt') as f
-m.pop(0)
+ m.pop(0)
 forward(300)
-right(120)
+ right(120)
 pu()
-goto(x*30,y*30)
+ goto(x*30,y*30)
 dot(5)
-done()
+ done()
 else
-sp.append(num)
+ sp.append(num)
 product
-sys.setrecursionlimit(3050)
+ sys.setrecursionlimit(3050)
 abs=list(map(abs,a))
-readline
+ readline
 m.sort(reverse=True)
-replace
+ replace
 import
-return 
+ return 
 elif
-if
+ if
 break
-index
+ index
 int
-all
+ all
 
