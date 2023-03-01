@@ -166,4 +166,16 @@ for i in range (2023,10**10,2023):
     if n[0]=='1' and n[2:6]=='2139' and n[-1]=='4': print(i,i/2023)
 
 
-    
+  #26
+  
+  with open('26.txt') as f:
+    m=[int(x) for x in f]
+    m.pop(0)
+    m.sort(reverse=True)
+    k,mini=1,m[0]
+    for i in range(1,len(m)):
+        if m[i]+3<=mini:
+            mini=m[i]
+            k+=1
+print(k,mini)
+
