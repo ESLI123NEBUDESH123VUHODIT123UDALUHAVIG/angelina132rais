@@ -147,7 +147,7 @@ for i in range(len(a)-1):
  print(count)
 sp=[]
 
-#24
+#24.1
 with open('24.txt') as f:
     s=f.readline().replace('C','S').replace('D','S').replace('F','S')
     s=s.replace('A','G').replace('O','G')
@@ -160,11 +160,22 @@ with open('24.txt') as f:
         else:k=0
 print(kmax)
 
-#25
+#24.2
+s=open('24.txt').readline().replace('AB','1').replace('AC','1')
+s=s.replace('A', '').replace('B',' ').replace('C',' ')
+print(max(len(x) for x in s.split()))
+
+#25.1
 for i in range (2023,10**10,2023):
     n=str(i)
     if n[0]=='1' and n[2:6]=='2139' and n[-1]=='4': print(i,i/2023)
-
+    
+#25.2
+for a in range(10):
+        for b in range(10):
+            x=int(f'12345{a}6{b}8')
+            if x%17==0:
+                print(x,x//17)
 
   #26
   
@@ -178,4 +189,6 @@ for i in range (2023,10**10,2023):
             mini=m[i]
             k+=1
 print(k,mini)
+
+
 
